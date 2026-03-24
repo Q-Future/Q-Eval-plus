@@ -1,0 +1,38 @@
+{
+    "default": {
+        "base_url": "your.api.url",
+        "api_key": "sk-yourkey"
+    },
+    "image_align": {
+        "base_url": "your.api.url",
+        "api_key": "sk-yourkey"
+    },
+    "image_quality": {
+        "base_url": "your.api.url",
+        "api_key": "sk-yourkey"
+    },
+    "image_align_choice": {
+        "base_url": "your.api.url",
+        "api_key": "sk-yourkey"
+    },
+    "image_quality_choice": {
+        "base_url": "your.api.url",
+        "api_key": "sk-yourkey"
+    },
+    "video_align": {
+        "base_url": "your.api.url",
+        "api_key": "sk-yourkey"
+    },
+    "video_quality": {
+        "base_url": "your.api.url",
+        "api_key": "sk-yourkey"
+    },
+    "video_align_choice": {
+        "base_url": "your.api.url",
+        "api_key": "sk-yourkey"
+    },
+    "video_quality_choice": {
+        "base_url": "your.api.url",
+        "api_key": "sk-yourkey"
+    }
+}
