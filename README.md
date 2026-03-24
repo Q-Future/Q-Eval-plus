@@ -1,5 +1,5 @@
 # Q-Eval-plus
-## Q-Eval-plus Evaluation Script
+## Evaluation Script
 
 ```
 git clone https://github.com/Q-Future/Q-Eval-plus.git
